@@ -1,0 +1,3 @@
+Sword|Sharp blade|50.0|10
+Potion|Heals HP|15.0|25
+Bow|Ranged weapon|40.0|5

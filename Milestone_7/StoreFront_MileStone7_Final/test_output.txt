@@ -1,0 +1,1 @@
+Wand|Casts spells|60.0|3
